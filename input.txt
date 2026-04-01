@@ -1,0 +1,10 @@
+Hello123
+Test4567
+NoDigitsHere
+12345
+abc_123_xyz
+Cplusplus2025
+LabWork9
+Example1
+Example2
+Example3
